@@ -13,5 +13,5 @@
     
 ## Inspiration:
     https://github.com/propublica/compas-analysis
-    It is also the origianl data source.
+    It is also the original data source.
     
